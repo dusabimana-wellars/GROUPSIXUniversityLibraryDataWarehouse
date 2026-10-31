@@ -1,0 +1,7 @@
+student_number,room_name,booking_date,start_time,end_time
+ST001,Room A,2026-10-20,09:00,10:00
+ST002,Room B,2026-10-20,10:00,11:00
+ST003,Room A,2026-10-21,13:00,15:00
+ST001,Room C,2026-10-22,08:00,09:00
+ST004,Room B,2026-10-23,14:00,16:00
+ST002,Room A,2026-10-23,11:00,12:00
